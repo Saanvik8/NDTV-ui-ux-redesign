@@ -7,7 +7,7 @@ Many news websites contain a large amount of information on the homepage, which 
 * Design Tool : Figma
 
 # Figma Prototype 
-https://www.figma.com/design/xcP35eBhpCSUc0Nz5ZnHMf/NDTV?node-id=0-1&t=jvtN4Ao6yXWFcPKa-1
+https://www.figma.com/proto/xcP35eBhpCSUc0Nz5ZnHMf/NDTV?node-id=39-3091&p=f&t=LjwJENAcVWwvE0R8-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=39%3A3091
 
 ## Key Improvements:
 - Cleaner and more organized homepage layout
